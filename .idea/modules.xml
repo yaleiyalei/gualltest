@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/guall-user-manage/guall-user-manage.iml" filepath="$PROJECT_DIR$/guall-user-manage/guall-user-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gualltest.iml" filepath="$PROJECT_DIR$/gualltest.iml" />
+    </modules>
+  </component>
+</project>
